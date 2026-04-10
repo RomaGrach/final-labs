@@ -1,2 +1,0 @@
-ip link set dev eth1 mtu 600
-ip link set dev eth0 mtu 600

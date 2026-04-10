@@ -181,27 +181,11 @@ MTU (`Maximum Transmission Unit`) — это максимальный разме
 
 ### Полезные материалы
 
-Все материалы, необходимые для сдачи и повторного просмотра лабораторной работы, включены в этот каталог:
+В каталоге лабораторной находятся:
 
-- [Краткое задание](./assignment.md)
-- [Отчёт в DOCX](./report.docx)
-- [Отчёт в PDF](./report.pdf)
-- [Схема стенда](./gns3/)
-- [Конфигурации маршрутов и MTU](./configs/)
-- [Файлы захвата](./pcap/)
-- [Скриншоты](./screenshots/)
-
-Ключевые локальные иллюстрации:
-
-![Топология маршрутизируемого стенда](./screenshots/lr7_topology.png)
-
-![Проверка longest prefix match](./screenshots/lr7_route_get.png)
-
-![TTL в транзитном пакете](./screenshots/lr7_ttl.png)
-
-![Фрагментация IP-пакета](./screenshots/lr7_frag1.png)
-
-![ICMP fragmentation needed](./screenshots/lr7_df_icmp.png)
+- `README.md` - основной текст лабораторной;
+- `report.docx` - версия в формате Word;
+- `report.pdf` - версия в формате PDF.
 
 ## Chapter III
 
