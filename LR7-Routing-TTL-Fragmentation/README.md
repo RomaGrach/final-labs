@@ -187,9 +187,7 @@ MTU (`Maximum Transmission Unit`) — это максимальный разме
 
 - `README.md` - основной текст лабораторной;
 - `report.docx` - версия в формате Word;
-- `report.pdf` - версия в формате PDF;
-- `pcap/lr7_fragments.pcapng` - обязательный файл захвата для демонстрации фрагментации;
-- `pcap/lr7_df_icmp.pcapng` - дополнительный файл захвата для задания с `DF` и `ICMP Fragmentation Needed`.
+- `report.pdf` - версия в формате PDF.
 
 ## Chapter III
 

@@ -180,8 +180,7 @@ Wireshark используется для захвата и анализа ARP- 
 
 - `README.md` - основной текст лабораторной;
 - `report.docx` - версия в формате Word;
-- `report.pdf` - версия в формате PDF;
-- `pcap/lr6_subnets.pcapng` - файл захвата для анализа ARP и ICMP на линке `PC1 - R1`.
+- `report.pdf` - версия в формате PDF.
 
 ## Chapter III
 
